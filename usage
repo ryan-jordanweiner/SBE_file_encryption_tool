@@ -1,0 +1,2 @@
+make
+./encrypt <-e\-d> <source_file> <optional destination_file>
